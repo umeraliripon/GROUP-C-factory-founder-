@@ -10,4 +10,9 @@ require dirname(__FILE__).'/elements/service-section.php';
 require dirname(__FILE__).'/elements/counter.php';
 require dirname(__FILE__).'/elements/progressbar.php';
 
+
+require dirname(__FILE__).'/elements/team1.php';
+
+require dirname(__FILE__).'/elements/clints.php';
+?>
 ?>
